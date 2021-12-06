@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.apiGif=void 0;var path_1=require("path"),apiGif=function(e){e.get("/api/gif",function(e,i){i.sendFile((0,path_1.join)(__dirname,"resources","logo.png"))})};exports.apiGif=apiGif;

@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.config=void 0,exports.config={bubbleStrokeStyle:"#466dae",gifDelay:40};
